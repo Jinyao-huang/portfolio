@@ -1,7 +1,7 @@
 Jinyao Huang · a portfolio
 ================
 
-![](https://badgen.net/badge/machine/learning/orange) ![](https://badgen.net/badge/data/engineering/gray) ![](https://badgen.net/badge/geospatial/ml/pink) ![](https://badgen.net/badge/open/source/green) ![](https://badgen.net/badge/data/analysis/blue)
+![](https://badgen.net/badge/machine/learning/orange) ![](https://badgen.net/badge/data/engineering/gray) ![](https://badgen.net/badge/open/source/green) ![](https://badgen.net/badge/data/analysis/blue)
 
 I present here a sample of my projects and coursework. Contact me on [LinkedIn](https://www.linkedin.com/in/jinyao0004/).
 
