@@ -59,10 +59,12 @@ of hand-written specification scripts, built with Dr. T.J. Sego and Steve Han. C
 ## Coursework
 
 **ML @ Berkeley**: notebooks from an introductory deep-learning course adapted from Stanford's
-CS231N — PyTorch fundamentals, autograd, datasets, and three ways to build a network. Code in
+CS231N — PyTorch fundamentals and autograd through ResNet, Vision Transformers built from scratch,
+and zero-shot classification with CLIP. Code in
 [Repository](https://github.com/Jinyao-huang/ml-at-berkeley).
 
 ![](img/mlab_dataloader_augmentation.png)
+![](img/mlab_resnet_cifar_samples.png)
 
 ## Other projects
 
